@@ -1,0 +1,9 @@
+*~
+#*#
+
+# Ruby
+Gemfile.lock
+
+# temporarily dirs
+aozorabunko/
+vendor/
